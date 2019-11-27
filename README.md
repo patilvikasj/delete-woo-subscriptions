@@ -1,2 +1,2 @@
-# delete-woo-subscriptions
+# Delete WooCommerce subscriptions using WP CLI
 WP CLI command to delete WooCommerce subscription
